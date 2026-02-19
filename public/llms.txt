@@ -1,0 +1,53 @@
+# רענן קמינים ושרותי גז — Generative Engine Optimization Map
+
+> A שירותי גז ותחזוקה business.
+
+---
+
+## Pages
+
+### בית
+https://-89285f02.zappy5.app
+
+### שירותים
+https://-89285f02.zappy5.app/services
+
+### אודות
+https://-89285f02.zappy5.app/about
+
+### צור קשר
+https://-89285f02.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-89285f02.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-89285f02.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-89285f02.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רענן קמינים ושרותי גז
+רענן קמינים ושרותי גז is a business in the שירותי גז ותחזוקה industry.
+
+## Target Audience
+תושבי אזור באר שבע והסביבה
+
+## Industry
+שירותי גז ותחזוקה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-89285f02.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-89285f02.zappy5.app/robots.txt
